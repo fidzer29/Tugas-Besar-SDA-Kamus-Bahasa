@@ -1,0 +1,44 @@
+=================================================================================
+|		Prosedur Penggunaan Program Kamus Bahasa 			|
+|										|
+|  1. Pilihlah bahasa yang akan digunakan di menu utama.			|
+|	# Indonesia/Inggris							|
+|	# Inggris/Indonesia							|
+|										|
+|  2. Berikut ini adalah penjelasan menu yang tersedia pada Indonesia/Inggris.	|			
+|     1. Masukan Kata								|
+|  	# Pilih nomor 1 untuk menambahkan kata.					|
+|    	  Kata yang telah di input akan disimpan di kamus.			|
+|										|
+|     2. Hapus Kata								|
+|  	# Pilih nomor 2 untuk menghapus kata.					|
+|    	  Inputkan kata yang akan di hapus. Setelah itu, kata tersebut akan  	|
+|    	  dihapus program.							|
+|										|
+|     3. Cari Kata								|
+|  	# Pilih nomer 3 untuk mencari kata.					|
+|    	  Inputkan kata yang akan di cari. Program akan mencari kata yang telah	|
+|	  diinputkan.							 	|
+|										|
+|     4. Edit Kata								|
+|       # Pilih nomor 4 untuk mengedit terjemahan kata.				|
+|    	  Inputkan kata yang terjemahannya akan di ralat.Setelah itu, masukan 	|
+|    	  kata terjemahan yang tepat. Kata tersebut akan di-update oleh program.|
+|     										|
+|     5. Tampil Kata								|
+|  	# Pilih nomor 5 untuk menampilkan semua list kata yang ada pada kamus	|
+|  	  dan jumlah kata yang telah diinputkan.				|
+|										|
+|     6. Kembali Kemenu								|
+|  	# Pilih nomor 6 untuk kembali kemenu utama.				|
+|										|
+|   3. Help 									|
+|	# Fitur yang menampilkan penjelasan prosedur program kamus 		|
+|										|
+|   4. Exit 									|
+|	# Pilih nomor 4 untuk keluar dari program kamus bahasa			|  										|
+|										|
+|								KELOMPOK 11B	|
+|									2022	|
+|										|
+=================================================================================
